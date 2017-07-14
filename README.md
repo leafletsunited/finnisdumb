@@ -1,0 +1,2 @@
+# finnisdumb
+Finn is dumb
